@@ -81,7 +81,7 @@ should be conducted offline and face-to-face.
 ### Mobile phones
 
 On phones the only messenger I trust is
-[Signa](https://whispersystems.org/). There are a variety of other options
+[Signal](https://whispersystems.org/). There are a variety of other options
 out there, but all of them have at least one flaw. Signal has problems as well,
 including exposing some metadata to the GCM (Google Cloud Messaging)
 service it uses to push messages to an Android phone. However, it isn't
@@ -139,3 +139,12 @@ increasing the level of militancy we're capable of.
 	- your passcode is long and hard to guess
 	- you generally maintain physical control over your device and do not
 	loan it to people you do not trust.
+	
+Overall, smartphones are concretely useful devices that can be a huge asset when
+organizing. However, we should be clear about their limitations as platforms for
+secure communication, and we should be looking to minimize our reliance on them.
+At a certain point, if we're successful in our aims, it will likely be necessary
+to cease using them altogether. We are not at that point now, so currently we just
+need to be realistic about their advantages and limitations and use them accordingly.
+
+### Computers
