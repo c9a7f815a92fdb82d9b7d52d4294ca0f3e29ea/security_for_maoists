@@ -1,29 +1,13 @@
 # Security for Maoists
 
-Our task as communists is to organize in order to develop a proletarian
-political force capable of exercising dictatorship over the bourgeoisie.
-Proletarian power is radically heterogeneous to the bourgeois state, and
-for that reason we can expect that the state will use any and all means to
-oppose us. Our commitment to realizing proletarian power and destroying
-the dictatorship of the bourgeoisie means that we must take every
-reasonable precaution to safeguard ourselves and to minimize interference
-and surveillance by state forces. The purpose of this document is to
-provide militants who are organizing to build proletarian power with the
-necessary tools to make better decisions about these matters, and in
-particular about tools for secure communication.
+This document attempts to lay out some basic guidelines for communicating in
+a more secure way. The hope is that this is an ongoing project which can
+expand and grow to become a comprehensive guide and framework for thinking
+about these questions.
 
-The deviations to be avoided when discussing security are empiricism
-(paranoid fascination with the objective power of state surveillance that
-manifests as paralysis) and being overly subjective (thinking that these
-questions aren't yet serious, that it's too hard, that these things are
-'immaterial' and generally can't be studied by the same methods we employ
-when analyzing political situations, etc). Imperialists are paper tigers,
-and surveillance cannot counter the political force of the united masses.
-We should be objective, however, about where we're at right now and what
-steps we can and should take. With this document I'm seeking to lay out
-some basic recommendations for how we can be security conscious in our
-organizing, and hopefully provide a basis for guiding decisions that build
-up our organizations and better equip up to bring the fight to the enemy.
+So, if you have improvements, spot an inaccuracy or a typo, please submit
+a PR with changes, or email befd45bab444861ea14d0847bd9efa@gmail.com with
+the changes you'd like to make!
 
 ## Should we use electronics when organizing at all?
 
